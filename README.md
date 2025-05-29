@@ -1,6 +1,6 @@
 **Hi there :smile:, I'm Rachel.**
 
-### An enthusiastic and passionate Full Stack Developer solving problems one line of code at a time.
+### An enthusiastic and passionate Data Scientist/Analyst/Engineer/Full Stack Developer solving problems one line of code at a time.
 
 # Technologies
 <div align="left"> 
